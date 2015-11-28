@@ -1,0 +1,79 @@
+/* CustomProject CSS */
+
+body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+.stable_the_height{
+	min-height: 100%;
+	position: relative;
+}
+.clear{
+	clear: both;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+.wrapper,footer,header{
+	width: 960px;
+	margin: 0px auto;
+}
+#logo_img{
+	width: 240px;
+    height: 108px;
+}
+
+/* header  CSS */
+.header_block{
+       background: antiquewhite;
+       padding-bottom: 24px;
+}
+header{
+	padding-top: 20px;
+}
+.logo{
+	float: left;
+}
+.menu{
+	float: right;
+	padding-top: 15px;
+}
+#top_menu li{
+	font-size: 18px;
+	color: #000;
+	display: inline;
+	padding: 15px;
+}
+
+
+/* Inner Content CSS */
+
+.main_content{
+	padding-bottom: 100px;
+	padding-top: 20px;
+}
+.main_content{
+	width: 600px;
+	float: left;
+	margin-right: 10px;
+}
+.side_bar{
+	width: 300px;
+	float: right;
+	margin-top: 26px;
+}	
+
+/* footer CSS */
+
+.footer_block{
+	width: 100%;
+        background: brown;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+
