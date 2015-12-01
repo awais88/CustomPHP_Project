@@ -1,1 +1,1 @@
-/* This is the read me file */  
+/*Custom PHP Project (Just for Learning) */  
